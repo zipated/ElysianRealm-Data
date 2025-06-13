@@ -6,6 +6,7 @@
 | Elysia.jpg | 爱莉希雅 |
 | Vicissitude_Branch.jpg | 崩落分支流 |
 | Vicissitude_Attack.jpg | 崩落普攻流 |
+| Vicissitude_Branch_ThousandMachine.jpg | 崩落千机兵幕分支流 |
 | TwinSeele.jpg | 彼岸双生 |
 | Anchora.jpg | 不灭星锚 |
 | Refrigerator.jpg | 苍骑士 · 月魂 |
@@ -22,14 +23,17 @@
 | Serenade.jpg | 第六夜想曲 |
 | Raven.jpg | 渡鸦 |
 | Fischl.jpg | 菲谢尔 |
+| Fischl_ThousandMachine.jpg | 菲谢尔千机兵幕 |
 | Starry.jpg | 格蕾修 |
 | Helia.jpg | 赫丽娅 |
 | Helia_AstralRing.jpg | 赫丽娅星环流 |
 | Sparkle.jpg | 花火 |
 | Sparkle_AstralRing.jpg | 花火星环流 |
 | Excelsis.jpg | 辉骑士 · 月魄 |
+| Excelsis_ThousandMachine.jpg | 辉骑士 · 月魄千机兵幕 |
 | Carol.jpg | 卡萝尔 |
 | Coralie.jpg | 科拉莉 |
+| Coralie_ThousandMachine.jpg | 科拉莉千机兵幕 |
 | Coralie_AstralRing.jpg | 科拉莉星环流 |
 | Void.jpg | 空之律者 |
 | Delta.jpg | 狂热蓝调Δ |
@@ -48,12 +52,19 @@
 | Human_AstralRing.jpg | 人律星环流 |
 | Human_Branch.jpg | 人律蓄力流 |
 | Human.jpg | 人之律者 |
+| Human_AstralRing_ThousandMachine.jpg | 人之律者千机兵幕星环流 |
 | Thelema.jpg | 瑟莉姆 |
 | Thelema_AstralRing.jpg | 瑟莉姆星环流 |
+| Thelema_ThousandMachine.jpg | 瑟莉姆千机兵幕 |
 | Kallen.jpg | 圣仪装 · 今样 |
 | Rosemary.jpg | 失落迷迭 |
+| Rosemary_ThousandMachine.jpg | 失落迷迭千机兵幕 |
 | Cabbage.jpg | 时帆旅人 |
-| ShigureKira_Branch.jpg | 时雨绮 |
+| WarpedSpacetime.jpg | 位面武器·失序时空 |
+| WarpedSpacetime_AstralRing.jpg | 位面武器·失序时空 |
+| WarpedSpacetime_ThousandMachine.jpg | 位面武器·失序时空千机兵幕 |
+| WarpedSpacetime_AstralRing_ThousandMachine.jpg | 位面武器·失序时空千机兵幕星环流 |
+| ShigureKira_Branch.jpg | 时雨绮罗分支流 |
 | ShigureKira.jpg | 时雨绮罗 |
 | Sentience_brick.jpg | 识律板砖流 |
 | Sentience_HoeFlow.jpg | 识律锄地流 |
@@ -75,6 +86,7 @@
 | Sirin_Attack.jpg | 西琳普攻流 |
 | Sirin_Branch.jpg | 西琳蓄力流 |
 | Senadina.jpg | 希娜狄雅 |
+| Senadina_ThousandMachine.jpg | 希娜狄雅千机兵幕 |
 | Flamescion.jpg | 薪炎之律者 |
 | Starchasm.jpg | 魇夜星渊 |
 | Golden.jpg | 伊甸 |
@@ -94,6 +106,7 @@
 | TerminalAide0017.jpg | 终末协理0017 |
 | Finally_Branch.jpg | 终焉分支流 |
 | Finally.jpg | 终焉之律者 |
+| Finally_Branch_ThousandMachine.jpg | 终焉之律者千机兵幕分支流 |
 
 
 > 图片素材来源于崩坏3通讯中心（月光中心），仅供交流学习使用
