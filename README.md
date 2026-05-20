@@ -52,7 +52,8 @@ dist/elysian-realm-index.json 采用 resources + keywords 的倒排索引结构�
 仓库支持通过关键词 Issue 自动生成 meta 更新 PR：
 
 * 用户提交角色 ID 与关键词列表
-* Actions 自动更新 `meta/<id>.json`
+* Actions 会先校验 `data` 中是否存在对应图片文件
+* 若 `meta/<id>.json` 不存在，则自动创建；存在则按 Issue 内容更新
 * 自动重建 `dist/elysian-realm-index.json`
 * 自动创建待审核 PR
 
