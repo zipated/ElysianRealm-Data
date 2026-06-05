@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-05-18T08:43:38.193Z",
+    "generated_at": "2026-06-05T12:59:23.493Z",
     "resources": {
         "Anchora": {
             "image": "data/Anchora.jpg",
@@ -21,6 +21,10 @@
         "Coralie_AstralRing": {
             "image": "data/Coralie_AstralRing.jpg",
             "last_updated": "2025-12-10T16:05:17+08:00"
+        },
+        "Coralie_MMB": {
+            "image": "data/Coralie_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
         },
         "Coralie": {
             "image": "data/Coralie.jpg",
@@ -86,6 +90,10 @@
             "image": "data/Excelsis.jpg",
             "last_updated": "2024-12-18T15:01:27+08:00"
         },
+        "Felis_MMB": {
+            "image": "data/Felis_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
+        },
         "Felis": {
             "image": "data/Felis.jpg",
             "last_updated": "2024-05-06T14:06:52+08:00"
@@ -124,11 +132,15 @@
         },
         "Helia_AstralRing": {
             "image": "data/Helia_AstralRing.jpg",
-            "last_updated": "2026-05-18T16:31:08+08:00"
+            "last_updated": "2026-06-05T17:53:31+08:00"
         },
         "Helia": {
             "image": "data/Helia.jpg",
             "last_updated": "2024-03-07T16:40:23+08:00"
+        },
+        "HeliaReborn_AstralRing_MMB": {
+            "image": "data/HeliaReborn_AstralRing_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
         },
         "HeliaReborn_AstralRing": {
             "image": "data/HeliaReborn_AstralRing.jpg",
@@ -144,7 +156,7 @@
         },
         "Human_AstralRing": {
             "image": "data/Human_AstralRing.jpg",
-            "last_updated": "2026-05-18T16:31:08+08:00"
+            "last_updated": "2026-06-05T17:53:31+08:00"
         },
         "Human_Branch": {
             "image": "data/Human_Branch.jpg",
@@ -210,6 +222,22 @@
             "image": "data/Palatinus.jpg",
             "last_updated": "2023-01-06T16:29:07+08:00"
         },
+        "Panacea_AstralRing_MMB": {
+            "image": "data/Panacea_AstralRing_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
+        },
+        "Panacea_AstralRing": {
+            "image": "data/Panacea_AstralRing.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
+        },
+        "Panacea_MMB": {
+            "image": "data/Panacea_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
+        },
+        "Panacea": {
+            "image": "data/Panacea.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
+        },
         "PeregrineSword_AstralRing": {
             "image": "data/PeregrineSword_AstralRing.jpg",
             "last_updated": "2025-04-29T16:07:01+08:00"
@@ -228,7 +256,7 @@
         },
         "Rebirth_AstralRing": {
             "image": "data/Rebirth_AstralRing.jpg",
-            "last_updated": "2026-05-18T16:31:08+08:00"
+            "last_updated": "2026-06-05T17:53:31+08:00"
         },
         "Rebirth_Death": {
             "image": "data/Rebirth_Death.jpg",
@@ -250,6 +278,10 @@
             "image": "data/Refrigerator.jpg",
             "last_updated": "2023-01-06T16:29:07+08:00"
         },
+        "Rita_MissEspionage_AstralRing_MMB": {
+            "image": "data/Rita_MissEspionage_AstralRing_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
+        },
         "Rita_MissEspionage_AstralRing": {
             "image": "data/Rita_MissEspionage_AstralRing.jpg",
             "last_updated": "2026-05-18T16:31:08+08:00"
@@ -257,6 +289,10 @@
         "Rita_MissEspionage": {
             "image": "data/Rita_MissEspionage.jpg",
             "last_updated": "2025-12-10T16:05:17+08:00"
+        },
+        "Rosemary_MMB": {
+            "image": "data/Rosemary_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
         },
         "Rosemary": {
             "image": "data/Rosemary.jpg",
@@ -362,6 +398,10 @@
             "image": "data/Theresa_Sleep.jpg",
             "last_updated": "2024-08-13T10:03:52+08:00"
         },
+        "TheresaLuna_AstralRing_MMB": {
+            "image": "data/TheresaLuna_AstralRing_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
+        },
         "TheresaLuna_AstralRing": {
             "image": "data/TheresaLuna_AstralRing.jpg",
             "last_updated": "2026-05-18T16:31:08+08:00"
@@ -409,6 +449,10 @@
         "Vicissitude_Attack": {
             "image": "data/Vicissitude_Attack.jpg",
             "last_updated": "2026-04-07T00:03:17+08:00"
+        },
+        "Vicissitude_Branch_MMB": {
+            "image": "data/Vicissitude_Branch_MMB.jpg",
+            "last_updated": "2026-06-05T17:53:31+08:00"
         },
         "Vicissitude_Branch": {
             "image": "data/Vicissitude_Branch.jpg",
@@ -487,25 +531,40 @@
         "包菜乐土": [
             "Cabbage"
         ],
+        "崩符分支流": [
+            "Vicissitude_Branch_MMB",
+            "Vicissitude_Branch"
+        ],
         "崩符乐土": [
+            "Vicissitude_Branch_MMB",
             "Vicissitude_Branch",
             "Vicissitude_Attack"
         ],
         "崩符乐土2": [
             "Vicissitude_Branch"
         ],
+        "崩符乐土3": [
+            "Vicissitude_Branch_MMB"
+        ],
         "崩符普攻流": [
             "Vicissitude_Attack"
+        ],
+        "崩符千机": [
+            "Vicissitude_Branch_MMB"
         ],
         "崩符蓄力流": [
             "Vicissitude_Branch"
         ],
         "崩落华乐土": [
+            "Vicissitude_Branch_MMB",
             "Vicissitude_Branch",
             "Vicissitude_Attack"
         ],
         "崩落华乐土2": [
             "Vicissitude_Branch"
+        ],
+        "崩落华乐土3": [
+            "Vicissitude_Branch_MMB"
         ],
         "冰八乐土": [
             "Moment"
@@ -526,11 +585,15 @@
             "Reason"
         ],
         "臭鼬乐土": [
+            "Coralie_MMB",
             "Coralie",
             "Coralie_AstralRing"
         ],
         "臭鼬乐土2": [
             "Coralie_AstralRing"
+        ],
+        "臭鼬乐土5": [
+            "Coralie_MMB"
         ],
         "次生银翼乐土": [
             "Silverwing"
@@ -562,6 +625,35 @@
         "大懒猫乐土2": [
             "Kiana_Attack"
         ],
+        "大希儿乐土": [
+            "Panacea",
+            "Panacea_AstralRing",
+            "Panacea_AstralRing_MMB",
+            "Panacea_MMB"
+        ],
+        "大希儿乐土1": [
+            "Panacea"
+        ],
+        "大希儿乐土2": [
+            "Panacea_AstralRing"
+        ],
+        "大希儿乐土3": [
+            "Panacea_MMB"
+        ],
+        "大希儿乐土4": [
+            "Panacea_AstralRing_MMB"
+        ],
+        "大希儿千机": [
+            "Panacea_AstralRing_MMB",
+            "Panacea_MMB"
+        ],
+        "大希儿千机星环流": [
+            "Panacea_AstralRing_MMB"
+        ],
+        "大希儿星环流": [
+            "Panacea_AstralRing",
+            "Panacea_AstralRing_MMB"
+        ],
         "大鸭鸭乐土": [
             "Silverwing_AstralRing",
             "Silverwing"
@@ -573,19 +665,30 @@
             "Silverwing_AstralRing"
         ],
         "大月下乐土": [
+            "TheresaLuna_AstralRing_MMB",
             "TheresaLuna_AstralRing",
             "TheresaLuna"
         ],
         "大月下乐土2": [
             "TheresaLuna_AstralRing"
         ],
+        "大月下乐土3": [
+            "TheresaLuna_AstralRing_MMB"
+        ],
         "大月下普攻流": [
             "TheresaLuna_Attack"
+        ],
+        "大月下千机": [
+            "TheresaLuna_AstralRing_MMB"
+        ],
+        "大月下千机星环流": [
+            "TheresaLuna_AstralRing_MMB"
         ],
         "大月下武器流": [
             "TheresaLuna_Weapon"
         ],
         "大月下星环流": [
+            "TheresaLuna_AstralRing_MMB",
             "TheresaLuna_AstralRing"
         ],
         "呆鹅乐土": [
@@ -678,7 +781,11 @@
             "Starry"
         ],
         "菲利丝乐土": [
+            "Felis_MMB",
             "Felis"
+        ],
+        "菲利丝乐土2": [
+            "Felis_MMB"
         ],
         "菲谢尔乐土": [
             "Fischl"
@@ -711,6 +818,9 @@
         ],
         "赫丽娅乐土4": [
             "HeliaReborn_AstralRing"
+        ],
+        "赫丽娅乐土5": [
+            "HeliaReborn_AstralRing_MMB"
         ],
         "赫丽娅星环流": [
             "Helia_AstralRing"
@@ -745,21 +855,36 @@
             "Starry"
         ],
         "火锤乐土": [
+            "Coralie_MMB",
             "Coralie",
             "Coralie_AstralRing"
         ],
         "火锤乐土2": [
             "Coralie_AstralRing"
         ],
+        "火锤乐土5": [
+            "Coralie_MMB"
+        ],
+        "火符分支流": [
+            "Vicissitude_Branch_MMB",
+            "Vicissitude_Branch"
+        ],
         "火符乐土": [
+            "Vicissitude_Branch_MMB",
             "Vicissitude_Branch",
             "Vicissitude_Attack"
         ],
         "火符乐土2": [
             "Vicissitude_Branch"
         ],
+        "火符乐土3": [
+            "Vicissitude_Branch_MMB"
+        ],
         "火符普攻流": [
             "Vicissitude_Attack"
+        ],
+        "火符千机": [
+            "Vicissitude_Branch_MMB"
         ],
         "火符蓄力流": [
             "Vicissitude_Branch"
@@ -773,15 +898,23 @@
         "机赫乐土": [
             "HeliaReborn"
         ],
+        "机赫千机星环流": [
+            "HeliaReborn_AstralRing_MMB"
+        ],
         "机赫星环流": [
+            "HeliaReborn_AstralRing_MMB",
             "HeliaReborn_AstralRing"
         ],
         "鸡妈妈乐土": [
+            "Vicissitude_Branch_MMB",
             "Vicissitude_Branch",
             "Vicissitude_Attack"
         ],
         "鸡妈妈乐土2": [
             "Vicissitude_Branch"
+        ],
+        "鸡妈妈乐土3": [
+            "Vicissitude_Branch_MMB"
         ],
         "姬子乐土": [
             "Eclipse"
@@ -808,6 +941,7 @@
             "Oven"
         ],
         "科拉莉乐土": [
+            "Coralie_MMB",
             "Coralie",
             "Coralie_AstralRing"
         ],
@@ -820,6 +954,12 @@
         "科拉莉乐土4": [
             "CoralieDragon_AstralRing"
         ],
+        "科拉莉乐土5": [
+            "Coralie_MMB"
+        ],
+        "科拉莉千机": [
+            "Coralie_MMB"
+        ],
         "科拉莉星环流": [
             "Coralie_AstralRing"
         ],
@@ -830,11 +970,15 @@
             "Void"
         ],
         "拉莉乐土": [
+            "Coralie_MMB",
             "Coralie",
             "Coralie_AstralRing"
         ],
         "拉莉乐土2": [
             "Coralie_AstralRing"
+        ],
+        "拉莉乐土5": [
+            "Coralie_MMB"
         ],
         "老灯乐土": [
             "Lantern",
@@ -911,20 +1055,35 @@
         "龙骑士乐土": [
             "HeliaReborn"
         ],
+        "龙骑士千机星环流": [
+            "HeliaReborn_AstralRing_MMB"
+        ],
         "龙骑士星环流": [
+            "HeliaReborn_AstralRing_MMB",
             "HeliaReborn_AstralRing"
         ],
         "萝莎莉娅乐土": [
             "Delta"
         ],
         "猫猫乐土": [
+            "Felis_MMB",
             "Felis"
+        ],
+        "猫猫乐土2": [
+            "Felis_MMB"
         ],
         "梅比乌斯乐土": [
             "Lnfinite"
         ],
         "迷迭乐土": [
+            "Rosemary_MMB",
             "Rosemary"
+        ],
+        "迷迭乐土2": [
+            "Rosemary_MMB"
+        ],
+        "迷迭千机": [
+            "Rosemary_MMB"
         ],
         "迷你鹅乐土": [
             "Durandal_TakeWalk",
@@ -959,10 +1118,21 @@
             "Void_Skill"
         ],
         "帕朵菲利丝乐土": [
+            "Felis_MMB",
             "Felis"
         ],
+        "帕朵菲利丝乐土2": [
+            "Felis_MMB"
+        ],
         "帕朵乐土": [
+            "Felis_MMB",
             "Felis"
+        ],
+        "帕朵乐土2": [
+            "Felis_MMB"
+        ],
+        "帕朵千机": [
+            "Felis_MMB"
         ],
         "普罗米修斯乐土": [
             "TerminalAide0017"
@@ -1039,11 +1209,15 @@
             "Gloria"
         ],
         "色律乐土": [
+            "Rita_MissEspionage_AstralRing_MMB",
             "Rita_MissEspionage_AstralRing",
             "Rita_MissEspionage"
         ],
         "色律乐土2": [
             "Rita_MissEspionage_AstralRing"
+        ],
+        "色律乐土3": [
+            "Rita_MissEspionage_AstralRing_MMB"
         ],
         "瑟莉姆乐土": [
             "Thelema",
@@ -1233,13 +1407,24 @@
             "Rebirth_Life"
         ],
         "特丽乐土": [
+            "Rita_MissEspionage_AstralRing_MMB",
             "Rita_MissEspionage_AstralRing",
             "Rita_MissEspionage"
         ],
         "特丽乐土2": [
             "Rita_MissEspionage_AstralRing"
         ],
+        "特丽乐土3": [
+            "Rita_MissEspionage_AstralRing_MMB"
+        ],
+        "特丽千机": [
+            "Rita_MissEspionage_AstralRing_MMB"
+        ],
+        "特丽千机星环流": [
+            "Rita_MissEspionage_AstralRing_MMB"
+        ],
         "特丽星环流": [
+            "Rita_MissEspionage_AstralRing_MMB",
             "Rita_MissEspionage_AstralRing"
         ],
         "天鹅乐土": [
@@ -1354,11 +1539,15 @@
             "Mei_DawnbearingCrescent_AstralRing"
         ],
         "虚塔乐土": [
+            "Rita_MissEspionage_AstralRing_MMB",
             "Rita_MissEspionage_AstralRing",
             "Rita_MissEspionage"
         ],
         "虚塔乐土2": [
             "Rita_MissEspionage_AstralRing"
+        ],
+        "虚塔乐土3": [
+            "Rita_MissEspionage_AstralRing_MMB"
         ],
         "巡矢乐土": [
             "Helia_AstralRing",
@@ -1401,6 +1590,41 @@
         ],
         "羽兔摇旗流": [
             "Dreamweaver_Weapon"
+        ],
+        "愈生乐土": [
+            "Panacea",
+            "Panacea_AstralRing",
+            "Panacea_AstralRing_MMB",
+            "Panacea_MMB"
+        ],
+        "愈生乐土1": [
+            "Panacea"
+        ],
+        "愈生乐土2": [
+            "Panacea_AstralRing"
+        ],
+        "愈生乐土3": [
+            "Panacea_MMB"
+        ],
+        "愈生乐土4": [
+            "Panacea_AstralRing_MMB"
+        ],
+        "愈生千机": [
+            "Panacea_AstralRing_MMB",
+            "Panacea_MMB"
+        ],
+        "愈生千机星环流": [
+            "Panacea_AstralRing_MMB"
+        ],
+        "愈生星环流": [
+            "Panacea_AstralRing",
+            "Panacea_AstralRing_MMB"
+        ],
+        "愈生佑翎乐土": [
+            "Panacea",
+            "Panacea_AstralRing",
+            "Panacea_AstralRing_MMB",
+            "Panacea_MMB"
         ],
         "月痕乐土": [
             "Susang"
@@ -1500,14 +1724,22 @@
             "Finally"
         ],
         "重机乐土": [
+            "Coralie_MMB",
             "Coralie",
             "Coralie_AstralRing"
         ],
         "重机乐土2": [
             "Coralie_AstralRing"
         ],
+        "重机乐土5": [
+            "Coralie_MMB"
+        ],
         "猪咪乐土": [
+            "Felis_MMB",
             "Felis"
+        ],
+        "猪咪乐土2": [
+            "Felis_MMB"
         ],
         "紫苑乐土": [
             "Twilight"
@@ -1515,7 +1747,11 @@
         "s赫乐土": [
             "HeliaReborn"
         ],
+        "s赫千机星环流": [
+            "HeliaReborn_AstralRing_MMB"
+        ],
         "s赫星环流": [
+            "HeliaReborn_AstralRing_MMB",
             "HeliaReborn_AstralRing"
         ],
         "s卡乐土": [
