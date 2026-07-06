@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-06-05T12:59:23.493Z",
+    "generated_at": "2026-07-06T01:38:33.690Z",
     "resources": {
         "Anchora": {
             "image": "data/Anchora.jpg",
@@ -24,7 +24,7 @@
         },
         "Coralie_MMB": {
             "image": "data/Coralie_MMB.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Coralie": {
             "image": "data/Coralie.jpg",
@@ -88,7 +88,7 @@
         },
         "Excelsis": {
             "image": "data/Excelsis.jpg",
-            "last_updated": "2024-12-18T15:01:27+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Felis_MMB": {
             "image": "data/Felis_MMB.jpg",
@@ -132,7 +132,7 @@
         },
         "Helia_AstralRing": {
             "image": "data/Helia_AstralRing.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Helia": {
             "image": "data/Helia.jpg",
@@ -156,7 +156,7 @@
         },
         "Human_AstralRing": {
             "image": "data/Human_AstralRing.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Human_Branch": {
             "image": "data/Human_Branch.jpg",
@@ -178,6 +178,10 @@
             "image": "data/Kiana_Jump.jpg",
             "last_updated": "2025-02-24T21:29:54+08:00"
         },
+        "Lantern_AstralRing_MMB": {
+            "image": "data/Lantern_AstralRing_MMB.jpg",
+            "last_updated": "2026-07-06T09:37:50+08:00"
+        },
         "Lantern_AstralRing": {
             "image": "data/Lantern_AstralRing.jpg",
             "last_updated": "2024-05-15T11:23:44+08:00"
@@ -193,6 +197,10 @@
         "LoveELF_AstralRing": {
             "image": "data/LoveELF_AstralRing.jpg",
             "last_updated": "2026-03-19T09:02:18+08:00"
+        },
+        "LoveELF_MMB": {
+            "image": "data/LoveELF_MMB.jpg",
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "LoveELF": {
             "image": "data/LoveELF.jpg",
@@ -214,6 +222,10 @@
             "image": "data/Moment.jpg",
             "last_updated": "2023-01-06T16:29:07+08:00"
         },
+        "Oven_MMB": {
+            "image": "data/Oven_MMB.jpg",
+            "last_updated": "2026-07-06T09:37:50+08:00"
+        },
         "Oven": {
             "image": "data/Oven.jpg",
             "last_updated": "2026-02-11T07:03:05+08:00"
@@ -232,7 +244,7 @@
         },
         "Panacea_MMB": {
             "image": "data/Panacea_MMB.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Panacea": {
             "image": "data/Panacea.jpg",
@@ -256,7 +268,7 @@
         },
         "Rebirth_AstralRing": {
             "image": "data/Rebirth_AstralRing.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Rebirth_Death": {
             "image": "data/Rebirth_Death.jpg",
@@ -280,7 +292,7 @@
         },
         "Rita_MissEspionage_AstralRing_MMB": {
             "image": "data/Rita_MissEspionage_AstralRing_MMB.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Rita_MissEspionage_AstralRing": {
             "image": "data/Rita_MissEspionage_AstralRing.jpg",
@@ -292,7 +304,7 @@
         },
         "Rosemary_MMB": {
             "image": "data/Rosemary_MMB.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Rosemary": {
             "image": "data/Rosemary.jpg",
@@ -400,7 +412,7 @@
         },
         "TheresaLuna_AstralRing_MMB": {
             "image": "data/TheresaLuna_AstralRing_MMB.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "TheresaLuna_AstralRing": {
             "image": "data/TheresaLuna_AstralRing.jpg",
@@ -452,7 +464,7 @@
         },
         "Vicissitude_Branch_MMB": {
             "image": "data/Vicissitude_Branch_MMB.jpg",
-            "last_updated": "2026-06-05T17:53:31+08:00"
+            "last_updated": "2026-07-06T09:37:50+08:00"
         },
         "Vicissitude_Branch": {
             "image": "data/Vicissitude_Branch.jpg",
@@ -499,6 +511,7 @@
             "Human_Branch"
         ],
         "爱神乐土": [
+            "LoveELF_MMB",
             "LoveELF_AstralRing",
             "LoveELF"
         ],
@@ -509,21 +522,28 @@
             "Cabbage"
         ],
         "爱愿乐土": [
+            "LoveELF_MMB",
             "LoveELF_AstralRing",
             "LoveELF"
         ],
         "爱愿乐土2": [
+            "LoveELF_MMB",
             "LoveELF_AstralRing"
         ],
         "爱愿星环流": [
             "LoveELF_AstralRing"
         ],
         "爱愿妖精乐土": [
+            "LoveELF_MMB",
             "LoveELF_AstralRing",
             "LoveELF"
         ],
         "爱愿妖精乐土2": [
+            "LoveELF_MMB",
             "LoveELF_AstralRing"
+        ],
+        "爱愿妖精千机": [
+            "LoveELF_MMB"
         ],
         "八重樱乐土": [
             "Moment"
@@ -626,10 +646,10 @@
             "Kiana_Attack"
         ],
         "大希儿乐土": [
+            "Panacea_MMB",
             "Panacea",
             "Panacea_AstralRing",
-            "Panacea_AstralRing_MMB",
-            "Panacea_MMB"
+            "Panacea_AstralRing_MMB"
         ],
         "大希儿乐土1": [
             "Panacea"
@@ -644,8 +664,8 @@
             "Panacea_AstralRing_MMB"
         ],
         "大希儿千机": [
-            "Panacea_AstralRing_MMB",
-            "Panacea_MMB"
+            "Panacea_MMB",
+            "Panacea_AstralRing_MMB"
         ],
         "大希儿千机星环流": [
             "Panacea_AstralRing_MMB"
@@ -738,23 +758,36 @@
             "Theresa_AstralRing"
         ],
         "灯姐乐土": [
+            "Lantern_AstralRing_MMB",
             "Lantern",
             "Lantern_AstralRing"
         ],
         "灯姐乐土2": [
             "Lantern_AstralRing"
         ],
+        "灯姐乐土3": [
+            "Lantern_AstralRing_MMB"
+        ],
         "灯姐星环流": [
+            "Lantern_AstralRing_MMB",
             "Lantern_AstralRing"
         ],
         "灯乐土": [
+            "Lantern_AstralRing_MMB",
             "Lantern",
             "Lantern_AstralRing"
         ],
         "灯乐土2": [
             "Lantern_AstralRing"
         ],
+        "灯乐土3": [
+            "Lantern_AstralRing_MMB"
+        ],
+        "灯千机": [
+            "Lantern_AstralRing_MMB"
+        ],
         "灯星环流": [
+            "Lantern_AstralRing_MMB",
             "Lantern_AstralRing"
         ],
         "电弩乐土": [
@@ -771,11 +804,15 @@
             "Raven"
         ],
         "发光蘑菇头乐土": [
+            "Lantern_AstralRing_MMB",
             "Lantern",
             "Lantern_AstralRing"
         ],
         "发光蘑菇头乐土2": [
             "Lantern_AstralRing"
+        ],
+        "发光蘑菇头乐土3": [
+            "Lantern_AstralRing_MMB"
         ],
         "繁星乐土": [
             "Starry"
@@ -890,7 +927,14 @@
             "Vicissitude_Branch"
         ],
         "火塔乐土": [
+            "Oven_MMB",
             "Oven"
+        ],
+        "火塔乐土2": [
+            "Oven_MMB"
+        ],
+        "火塔乐土千机": [
+            "Oven_MMB"
         ],
         "机八乐土": [
             "Moment"
@@ -938,7 +982,11 @@
             "Carol"
         ],
         "烤箱乐土": [
+            "Oven_MMB",
             "Oven"
+        ],
+        "烤箱乐土2": [
+            "Oven_MMB"
         ],
         "科拉莉乐土": [
             "Coralie_MMB",
@@ -981,11 +1029,15 @@
             "Coralie_MMB"
         ],
         "老灯乐土": [
+            "Lantern_AstralRing_MMB",
             "Lantern",
             "Lantern_AstralRing"
         ],
         "老灯乐土2": [
             "Lantern_AstralRing"
+        ],
+        "老灯乐土3": [
+            "Lantern_AstralRing_MMB"
         ],
         "雷律乐土": [
             "Thunder",
@@ -1176,6 +1228,9 @@
         "绮罗乐土2": [
             "ShigureKira_Branch"
         ],
+        "千机星环流": [
+            "Lantern_AstralRing_MMB"
+        ],
         "强袭乐土": [
             "Bladestrike"
         ],
@@ -1244,13 +1299,18 @@
             "Thelema_AstralRing"
         ],
         "莎芙莱乐土": [
+            "Lantern_AstralRing_MMB",
             "Lantern",
             "Lantern_AstralRing"
         ],
         "莎芙莱乐土2": [
             "Lantern_AstralRing"
         ],
+        "莎芙莱乐土3": [
+            "Lantern_AstralRing_MMB"
+        ],
         "莎芙莱星环流": [
+            "Lantern_AstralRing_MMB",
             "Lantern_AstralRing"
         ],
         "蛇蛇乐土": [
@@ -1510,7 +1570,11 @@
             "Flamescion"
         ],
         "星棘乐土": [
+            "Oven_MMB",
             "Oven"
+        ],
+        "星棘乐土2": [
+            "Oven_MMB"
         ],
         "星猫乐土": [
             "Anchora"
@@ -1526,6 +1590,7 @@
             "Kiana_Attack"
         ],
         "星塔乐土": [
+            "Oven_MMB",
             "Oven"
         ],
         "星芽乐土": [
@@ -1592,10 +1657,10 @@
             "Dreamweaver_Weapon"
         ],
         "愈生乐土": [
+            "Panacea_MMB",
             "Panacea",
             "Panacea_AstralRing",
-            "Panacea_AstralRing_MMB",
-            "Panacea_MMB"
+            "Panacea_AstralRing_MMB"
         ],
         "愈生乐土1": [
             "Panacea"
@@ -1610,8 +1675,8 @@
             "Panacea_AstralRing_MMB"
         ],
         "愈生千机": [
-            "Panacea_AstralRing_MMB",
-            "Panacea_MMB"
+            "Panacea_MMB",
+            "Panacea_AstralRing_MMB"
         ],
         "愈生千机星环流": [
             "Panacea_AstralRing_MMB"
@@ -1621,10 +1686,10 @@
             "Panacea_AstralRing_MMB"
         ],
         "愈生佑翎乐土": [
+            "Panacea_MMB",
             "Panacea",
             "Panacea_AstralRing",
-            "Panacea_AstralRing_MMB",
-            "Panacea_MMB"
+            "Panacea_AstralRing_MMB"
         ],
         "月痕乐土": [
             "Susang"
