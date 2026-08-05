@@ -126,8 +126,11 @@ node scripts/build-index.js
 | Elysia.jpg                             | 爱莉希雅                |
 | LoveELF.jpg                            | 爱愿妖精                |
 | LoveELF_AstralRing.jpg                 | 爱愿妖精星环流          |
+| LoveELF_MMB.jpg                        | 爱愿妖精 (千机兵幕)     |
 | Vicissitude_Branch.jpg                 | 崩落分支流              |
 | Vicissitude_Attack.jpg                 | 崩落普攻流              |
+| Vicissitude_Attack_AstralRing.jpg      | 崩落普攻流星环流        |
+| Vicissitude_Branch_MMB.jpg             | 崩落分支流 (千机兵幕)   |
 | TwinSeele.jpg                          | 彼岸双生                |
 | Anchora.jpg                            | 不灭星锚                |
 | Refrigerator.jpg                       | 苍骑士 · 月魂           |
@@ -140,6 +143,7 @@ node scripts/build-index.js
 | Theresa_AstralRing.jpg                 | 德丽莎星环流            |
 | Lantern.jpg                            | 灯                      |
 | Lantern_AstralRing.jpg                 | 灯星环流                |
+| Lantern_AstralRing_MMB.jpg             | 灯星环流 (千机兵幕)     |
 | Serenade.jpg                           | 第六夜想曲              |
 | Raven.jpg                              | 渡鸦                    |
 | Fischl.jpg                             | 菲谢尔                  |
@@ -147,6 +151,7 @@ node scripts/build-index.js
 | Helia.jpg                              | 赫丽娅                  |
 | HeliaReborn.jpg                        | 赫丽娅 · 失序时空       |
 | HeliaReborn_AstralRing.jpg             | 赫丽娅 · 失序时空星环流 |
+| HeliaReborn_AstralRing_MMB.jpg         | 赫丽娅 · 失序时空星环流 (千机兵幕) |
 | Helia_AstralRing.jpg                   | 赫丽娅星环流            |
 | Sparkle.jpg                            | 花火                    |
 | Sparkle_AstralRing.jpg                 | 花火星环流              |
@@ -156,6 +161,7 @@ node scripts/build-index.js
 | CoralieDragon.jpg                      | 科拉莉 · 魔龙           |
 | CoralieDragon_AstralRing.jpg           | 科拉莉 · 魔龙星环流     |
 | Coralie_AstralRing.jpg                 | 科拉莉星环流            |
+| Coralie_MMB.jpg                        | 科拉莉 (千机兵幕)       |
 | Void.jpg                               | 空之律者                |
 | Delta.jpg                              | 狂热蓝调Δ               |
 | Thunder_Attack.jpg                     | 雷律平A流               |
@@ -166,13 +172,16 @@ node scripts/build-index.js
 | PeregrineSword_AstralRing.jpg          | 李素裳 · 一客逍游星环流 |
 | Reason.jpg                             | 理之律者                |
 | Rita_MissEspionage.jpg                 | 丽塔 · 窈窕谍影         |
-| Rita_MissEspionage_AstralRing.jpg      | 丽塔 · 窈窕谍影         |
+| Rita_MissEspionage_AstralRing.jpg      | 丽塔 · 窈窕谍影星环流         |
+| Rita_MissEspionage_AstralRing_MMB.jpg  | 丽塔 · 窈窕谍影星环流 (千机兵幕) |
 | Oven.jpg                               | 缭乱星棘                |
+| Oven_MMB.jpg                           | 缭乱星棘 (千机兵幕)     |
 | Lnfinite.jpg                           | 梅比乌斯                |
 | Twilight.jpg                           | 暮光骑士 · 月煌         |
 | Void_Skill.jpg                         | 女王大招流              |
 | Gloria.jpg                             | 女武神 · 荣光           |
 | Felis.jpg                              | 帕朵菲莉丝              |
+| Felis_MMB.jpg                          | 帕朵菲莉丝 (千机兵幕)   |
 | Bladestrike.jpg                        | 破晓强袭                |
 | Kiana_Attack.jpg                       | 琪亚娜普攻流            |
 | Kiana_Jump.jpg                         | 琪亚娜跳鼓流            |
@@ -183,6 +192,7 @@ node scripts/build-index.js
 | Thelema_AstralRing.jpg                 | 瑟莉姆星环流            |
 | Kallen.jpg                             | 圣仪装 · 今样           |
 | Rosemary.jpg                           | 失落迷迭                |
+| Rosemary_MMB.jpg                       | 失落迷迭 (千机兵幕)     |
 | Cabbage.jpg                            | 时帆旅人                |
 | ShigureKira_Branch.jpg                 | 时雨绮                  |
 | ShigureKira.jpg                        | 时雨绮罗                |
@@ -222,6 +232,11 @@ node scripts/build-index.js
 | TheresaLuna_Weapon.jpg                 | 月下武器流              |
 | TheresaLuna.jpg                        | 月下非星环流            |
 | TheresaLuna_AstralRing.jpg             | 月下星环流              |
+| TheresaLuna_AstralRing_MMB.jpg         | 月下星环流 (千机兵幕)   |
+| Panacea.jpg                            | 愈生佑翎                |
+| Panacea_AstralRing.jpg                 | 愈生佑翎星环流          |
+| Panacea_MMB.jpg                        | 愈生佑翎 (千机兵幕)     |
+| Panacea_AstralRing_MMB.jpg             | 愈生佑翎星环流 (千机兵幕) |
 | Eclipse.jpg                            | 真红骑士 · 月蚀         |
 | Eclipse_Branch.jpg                     | 真红蓄力流              |
 | Truth.jpg                              | 真理之律者              |
